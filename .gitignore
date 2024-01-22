@@ -1,3 +1,11 @@
+## local ignores
+histocrypt_docs/
+voynichlib/
+qlynx/
+voynich_data/outputs/
+.ipynb_checkpoints/
+.idea/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
