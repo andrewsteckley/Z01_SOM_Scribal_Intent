@@ -5,6 +5,7 @@ qlynx/
 voynich_data/outputs/
 .ipynb_checkpoints/
 .idea/
+.DS_Store
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
