@@ -1,5 +1,7 @@
 ## local ignores
 histocrypt_docs/
+qlynx
+voynichlib
 voynichlib/
 qlynx/
 voynich_data/outputs/
