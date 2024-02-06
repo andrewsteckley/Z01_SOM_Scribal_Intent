@@ -7,6 +7,8 @@
 
 </div>
 
+<div align="center">
+
 <h3 align="center">Table SOM.1. Tokens with Propensity for Top Line of Paragraphs</h3>
 
 ![Tokens with Propensity for Top Line of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
@@ -29,6 +31,7 @@
 
 ![Full Propensity Token Table](T_Propensity_Tokens.png)
 
+</div>
 
 <div align="right">
 
