@@ -14,9 +14,9 @@ namely the hand-drawn illustrations of plants.
 
 This supplemantal material includes a series of Jupyter Notebooks. These are:
 
-* __Z01.1: Golden Corpus for Study__
-  * This notebook works through the preparation of an extraction of the of the transliterated Voynichese script 
-  from the Voynich Manuscript to form a clean study corpus.
+* __Z01.1: Study Corpus for Study__
+  * This notebook works through the preparation of a clean study corpus by 
+ extraction of data from the transliterated the Voynich Manuscript.
 
 
 * __# Z01.2: Token Cohorts__
@@ -27,15 +27,23 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
 
 
 * __Z01.4: Token Propensities Analysis__
-  * This notebook shows the calculations for the analysis of token propenisity for each of the subject cohorts.
+  * This notebook shows the calculations for the analysis of token usage propensities for each of the subject cohorts.
 
   
 * __Z01.5: Extra Analyses__
 
 
-Some additional charts:
+# Additional Plots
 
-![Table](voynich_data/outputs/T_token_propensities_BEFORE.png)
+![Token Propenities for Top Lines of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
+
+![Token Propenities for Tokens in Line Start Positions](voynich_data/outputs/T_token_propensities_FIRST.png)
+
+![Token Propenities for Tokens Immediately Before a Drawing](voynich_data/outputs/T_token_propensities_BEFORE.png)
+
+![Token Propenities for Tokens Immediately After a Drawing](voynich_data/outputs/T_token_propensities_AFTER.png)
+
+![Token Propenities for Tokens Line Ending Positions](voynich_data/outputs/T_token_propensities_LAST.png)
 
 
 

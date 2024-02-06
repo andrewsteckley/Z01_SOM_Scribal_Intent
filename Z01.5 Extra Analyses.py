@@ -214,7 +214,7 @@ def html_custom_heatmap_to_file(df, filename):
 
 
 # Convert the DataFrame to an HTML file
-filename= 'test.html'
+filename= 'voynich_data/outputs/T_Propensity_Token.html'
 html_custom_heatmap_to_file(df.set_index('token'), filename)
 print(f"HTML table written to {filename}")
 

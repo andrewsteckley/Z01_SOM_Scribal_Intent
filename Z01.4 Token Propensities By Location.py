@@ -254,7 +254,7 @@ if do_parametric_studies:
     print("This plot uses the Bayes Factor threshold only.")
     plot_threshold_parametric_data(stat_type, 
                                    num_propensity_tokens_bayes, 
-                                   filename = 'Analyses/Z001/F_Threshold_Parametric_bayes.png')
+                                   filename = 'voynich_data/outputs/F_Threshold_Parametric_bayes.png')
 
 
 # -------------------- Cell --------------------

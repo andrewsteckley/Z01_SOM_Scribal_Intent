@@ -1,7 +1,7 @@
-# Z01.1 Creating Golden Corpus.ipynb
+# Z01.1 Preparation of Study Corpus.ipynb
 print(80*"=")
 print(80*"=")
-print(f"||  Running Z01.1 Creating Golden Corpus.ipynb")
+print(f"||  Running Z01.1 Preparation of Study Corpus.ipynb")
 print(80*"=")
 print(80*"=")
 
@@ -868,7 +868,7 @@ if do_parametric_studies:
     print("This plot uses the Bayes Factor threshold only.")
     plot_threshold_parametric_data(stat_type, 
                                    num_propensity_tokens_bayes, 
-                                   filename = 'Analyses/Z001/F_Threshold_Parametric_bayes.png')
+                                   filename = 'voynich_data/outputs/F_Threshold_Parametric_bayes.png')
 
 
 # -------------------- Cell --------------------
@@ -1430,7 +1430,7 @@ def html_custom_heatmap_to_file(df, filename):
 
 
 # Convert the DataFrame to an HTML file
-filename= 'test.html'
+filename= 'voynich_data/outputs/T_Propensity_Token.html'
 html_custom_heatmap_to_file(df.set_index('token'), filename)
 print(f"HTML table written to {filename}")
 
