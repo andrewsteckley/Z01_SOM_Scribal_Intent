@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [Python Calculation Jupyter Notebooks](#Python-Calculation-Jupyter-Notebooks)
-- [Catalog of Tokens with Propensity for Various Positions](#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
+- [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
 - [Additional Figures](#Additional-Figures)
   - [Starting the Application](#starting-the-application)
   - [Advanced Features](#advanced-features)
@@ -46,29 +46,6 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
   
 * __Z01.5: Extra Analyses__
     
-
-## Catalog of Tokens with Propensity for Various Positions
-
-<h3 align="center">Table 1. Tokens with Propensity for Top Line of Paragraphs</h3>
-
-![Tokens with Propensity for Top Line of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
-
-<h3 align="center">Table 2. Tokens with Propensity for First Position on a Line</h3>
-
-![Tokens with Propensity for First Position on a Line](voynich_data/outputs/T_token_propensities_FIRST.png)
-
-<h3 align="center">Table 3. Tokens with Propensity for Position Immediately Before a Drawing</h3>
-
-![Tokens with Propensity for Position Immediately Before a Drawing](voynich_data/outputs/T_token_propensities_BEFORE.png)
-
-<h3 align="center">Table 4. Tokens with Propensity for Position Immediately After a Drawing</h3>
-
-![Tokens with Propensity for Position Immediately After a Drawing](voynich_data/outputs/T_token_propensities_AFTER.png)
-
-<h3 align="center">Table 5. Tokens with Propensity Last Position on a Line</h3>
-
-![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
-
 
 ## Additional Figures
 
