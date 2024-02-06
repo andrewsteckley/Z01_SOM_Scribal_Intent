@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Python Calculation Jupyter Notebooks](#Python Calculation Jupyter Notebooks)
-- [Catalog of Tokens with Propensity for Various Positions](#Catalog of Tokens with Propensity for Various Positions)
-- [Additional Figures](#Additional Figures)
+- [Python Calculation Jupyter Notebooks](#Python-Calculation-Jupyter-Notebooks)
+- [Catalog of Tokens with Propensity for Various Positions](#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
+- [Additional Figures](#Additional-Figures)
   - [Starting the Application](#starting-the-application)
   - [Advanced Features](#advanced-features)
 - [License](#license)
