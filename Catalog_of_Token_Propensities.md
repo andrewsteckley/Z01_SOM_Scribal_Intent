@@ -27,4 +27,8 @@
 
 ![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
 
+<div align="right">
+
 [Back to Table of Contents](README.md#Table-of-Contents)
+
+</div>

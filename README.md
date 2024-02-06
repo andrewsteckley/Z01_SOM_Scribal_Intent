@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Python Calculation Jupyter Notebooks](#Python-Calculation-Jupyter-Notebooks)
+- [Python Calculation Jupyter Notebooks](Notebook_Index.md#Python-Calculation-Jupyter-Notebooks)
 - [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities.md#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
 - [Additional Figures](#Additional-Figures)
   - [Starting the Application](#starting-the-application)
@@ -25,27 +25,7 @@ script such as paragraph and line boundaries but also by extrinsic elements,
 namely the hand-drawn illustrations of plants.
 
 
-## Python Calculation Jupyter Notebooks
-This supplemantal material includes a series of Jupyter Notebooks. These are:
 
-* __Z01.1: Study Corpus for Study__
-  * This notebook works through the preparation of a clean study corpus by 
- extraction of data from the transliterated the Voynich Manuscript.
-
-
-* __# Z01.2: Token Cohorts__
-  * This notebook sets up the several cohorts of tokens used for the study.
-  
-* __Z01.3: Token Length Analysis__
-  * This notebook shows the calculations for the analysis of token length distributions for the different cohorts.
-
-
-* __Z01.4: Token Propensities Analysis__
-  * This notebook shows the calculations for the analysis of token usage propensities for each of the subject cohorts.
-
-  
-* __Z01.5: Extra Analyses__
-    
 
 ## Additional Figures
 
