@@ -1,4 +1,16 @@
 # Z01-SOM_Histocrypt_24
+
+## Table of Contents
+- [Overview](#Overview)
+- [Python Calculation Jupyter Notebooks](#Python Calculation Jupyter Notebooks)
+- [Catalog of Tokens with Propensity for Various Positions](#Catalog of Tokens with Propensity for Various Positions)
+- [Additional Figures](#Additional Figures)
+  - [Starting the Application](#starting-the-application)
+  - [Advanced Features](#advanced-features)
+- [License](#license)
+- 
+
+## Overview
 This site provides Supplemental Material for the 
 research paper "Signs of Scribal Intent in the Voynich Manuscript".
 
@@ -12,6 +24,8 @@ vary significantly based on positions defined not only by elements intrinsic to 
 script such as paragraph and line boundaries but also by extrinsic elements, 
 namely the hand-drawn illustrations of plants.
 
+
+## Python Calculation Jupyter Notebooks
 This supplemantal material includes a series of Jupyter Notebooks. These are:
 
 * __Z01.1: Study Corpus for Study__
@@ -33,7 +47,7 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
 * __Z01.5: Extra Analyses__
     
 
-# Additional Plots
+## Catalog of Tokens with Propensity for Various Positions
 
 <h3 align="center">Table 1. Tokens with Propensity for Top Line of Paragraphs</h3>
 
@@ -56,5 +70,5 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
 ![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
 
 
-
+## Additional Figures
 
