@@ -26,12 +26,16 @@ This notebook shows the calculations for the analysis of token usage propensitie
 <h3>Z01.5: Extra Analyses</h3>
     
 
-The Python library modules used by these notebooks are generally available, except for two: <code>voynichlib</code> and <code>qlynx</code>.
+<h2>Python Dependencies</h2>
+Python 3.10 has been used for all analyses.
+All of the Python library modules used in the notebooks are generally available, except for two: <code>voynichlib</code> and <code>qlynx</code>.
 
+<h3><code>qlynx</code></h3>
 The <code>qlynx</code> is a proprietary library providing some general utility and plotting functions. These 
 that can be easily reproduced or replaced by
 other routines and none of the analysis is dependent on its use.
 
+<h3><code>voynichlib</code></h3>
 The <code>voynichlib</code> is a comprehrensive library
 developed for the purposes of managing and parsing  Voynich Manuscript transliteration files and for processing
 the elemental constructs of the Voynichese data.  This module is for internal use at this time, but is
