@@ -5,7 +5,7 @@
 </div>
 
 # Python Calculation Jupyter Notebooks
-This supplemental material includes a series of Jupyter Notebooks. These are:
+This supplemental material includes a series of Jupyter Notebooks. These are itemized below.
 
 <h3>Z01.1: Study Corpus for Study</h3>
 This notebook works through the preparation of a clean study corpus by 
@@ -25,6 +25,17 @@ This notebook shows the calculations for the analysis of token usage propensitie
   
 <h3>Z01.5: Extra Analyses</h3>
     
+
+The Python library modules used by these notebooks are generally available, except for two: <code>voynichlib</code> and <code>qlynx</code>.
+
+The <code>qlynx</code> is a proprietary library providing some general utility and plotting functions. These 
+that can be easily reproduced or replaced by
+other routines and none of the analysis is dependent on its use.
+
+The <code>voynichlib</code> is a comprehrensive library
+developed for the purposes of managing and parsing  Voynich Manuscript transliteration files and for processing
+the elemental constructs of the Voynichese data.  This module is for internal use at this time, but is
+being prepared for potential availability to the Voynich Manuscript research community.
 
 
 
