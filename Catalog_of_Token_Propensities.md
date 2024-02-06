@@ -29,7 +29,7 @@
 
 ![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
 
-![Full Propensity Token Table](T_Propensity_Tokens.png)
+![Full Propensity Token Table](voynich_data/outputs/T_Propensity_Token.png)
 
 </div>
 
