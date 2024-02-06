@@ -7,6 +7,8 @@
 # Additional Figures
 <h3 align="center">Figure SOM.1. Token Length Mass Probability Functions<br> Comparison of ALL and MIDDLE Cohorts</h3>
 
+<div align="center">
+
 ![PMFs of ALL and MIDDLE](voynich_data/outputs/F_PMF_Compare_ALL_MIDDLE.png)
 
 <h3 align="center">Figure SOM.2. Token Length Mass Probability Functions<br> Comparison of MIDDLE and TOP Cohorts</h3>
@@ -25,7 +27,7 @@
 
 ![PMFs of MIDDLE and AFTER](voynich_data/outputs/F_PMF_Compare_MIDDLE_AFTER.png)
 
-    
+</div>    
 
 
 
