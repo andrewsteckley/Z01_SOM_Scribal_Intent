@@ -1,0 +1,59 @@
+
+<html>
+<head>
+    <style>
+        h3 {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        table {
+            border: 3px solid black;
+            border-collapse: collapse;
+/*            width: 100%;*/
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+        }
+
+       .header-row {
+            background-color: #7AA4F8;
+        }     
+        table td, table th {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+        
+        tbody tr:nth-child(even) {
+            background-color: #FEEFC2; /*#FFFFD9; light beige for odd rows */
+/*            background-color: #f5f5dc; *//* light beige for odd rows */
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: white; /* white for even rows */
+        }
+    </style>
+</head>
+<body>
+<table style='width:600px'>
+    <tr>
+        <th class='header-row' colspan=1 rowspan=2 style='text-align: center;'>Tilt</th>
+        <th class='header-row' colspan=2 style='text-align: center;'>Token</th>
+        <th class='header-row' colspan=2 style='text-align: center;'>Counts</th>
+        <th class='header-row' colspan=3 style='text-align: center;'>Stats</th>
+    </tr>
+    <tr>
+        <th class='header-row' >Voynichese</th>
+        <th class='header-row' >Eva-</th>
+        <th class='header-row' >expected</th>
+        <th class='header-row' >observed</th>
+        <th class='header-row' >Propensity</th>
+        <th class='header-row' ><i>p</i>-value</th>
+        <th class='header-row' ><i>log(B)</i></th>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,115 @@
+
+<html>
+<head>
+    <style>
+        h3 {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        table {
+            border: 3px solid black;
+            border-collapse: collapse;
+/*            width: 100%;*/
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+        }
+
+       .header-row {
+            background-color: #7AA4F8;
+        }     
+        table td, table th {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+        
+        tbody tr:nth-child(even) {
+            background-color: #FEEFC2; /*#FFFFD9; light beige for odd rows */
+/*            background-color: #f5f5dc; *//* light beige for odd rows */
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: white; /* white for even rows */
+        }
+    </style>
+</head>
+<body>
+<table style='width:600px'>
+    <tr>
+        <th class='header-row' colspan=1 rowspan=2 style='text-align: center;'>Tilt</th>
+        <th class='header-row' colspan=2 style='text-align: center;'>Token</th>
+        <th class='header-row' colspan=2 style='text-align: center;'>Counts</th>
+        <th class='header-row' colspan=3 style='text-align: center;'>Stats</th>
+    </tr>
+    <tr>
+        <th class='header-row' >Voynichese</th>
+        <th class='header-row' >Eva-</th>
+        <th class='header-row' >expected</th>
+        <th class='header-row' >observed</th>
+        <th class='header-row' >Propensity</th>
+        <th class='header-row' ><i>p</i>-value</th>
+        <th class='header-row' ><i>log(B)</i></th>
+    </tr>
+<tr>
+    <td rowspan=4 style="background-color:white;color:green;"><b>Affinitive</b></td>            
+    <td style='color:green;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >qotaiin<br></span></td>
+    <td>qotaiin</td>
+    <td>0</td>
+    <td>4</td>
+    <td>21.8</td>
+    <td>0.000040</td>
+    <td>8.5</td>
+</tr>
+<tr>            
+    <td style='color:green;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >dy<br></span></td>
+    <td>dy</td>
+    <td>3</td>
+    <td>23</td>
+    <td>9.0</td>
+    <td>0.000000</td>
+    <td>>10</td>
+</tr>
+<tr>            
+    <td style='color:green;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >dam<br></span></td>
+    <td>dam</td>
+    <td>1</td>
+    <td>5</td>
+    <td>7.8</td>
+    <td>0.000522</td>
+    <td>5.9</td>
+</tr>
+<tr>            
+    <td style='color:green;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >s<br></span></td>
+    <td>s</td>
+    <td>7</td>
+    <td>19</td>
+    <td>2.8</td>
+    <td>0.000084</td>
+    <td>7.4</td>
+</tr>
+<tr style="border-top: 3px solid black;">
+    <td rowspan=2 style="background-color:white;color:red;"><b>Aversive</b></td>            
+    <td style='color:red;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >chor<br></span></td>
+    <td>chor</td>
+    <td>10</td>
+    <td>0</td>
+    <td>0.0</td>
+    <td>0.000048</td>
+    <td>9.9</td>
+</tr>
+<tr>            
+    <td style='color:red;'><span style="font-family:'EVA Hand 1'; font-size:100%"  >chol<br></span></td>
+    <td>chol</td>
+    <td>17</td>
+    <td>3</td>
+    <td>0.2</td>
+    <td>0.000047</td>
+    <td>8.7</td>
+</tr>
+</table>
+</body>
+</html>
