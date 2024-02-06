@@ -1,4 +1,4 @@
-# Z01-SOM_Histocrypt_24
+# Z01-Supplemental Online Material
 
 ## Table of Contents
 - [Overview](#Overview)
