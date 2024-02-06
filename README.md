@@ -36,6 +36,7 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
 # Additional Plots
 
 <h3 align="center">Table 1. Tokens with Propensity for Top Line of Paragraphs</h3>
+
 ![Tokens with Propensity for Top Line of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
 
 <h3 align="center">Table 2. Tokens with Propensity for First Position on a Line</h3>
