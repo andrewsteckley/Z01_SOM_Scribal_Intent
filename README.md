@@ -22,7 +22,3 @@ script such as paragraph and line boundaries but also by extrinsic elements,
 namely the hand-drawn illustrations of plants.
 
 
-
-
-## Additional Figures
-
