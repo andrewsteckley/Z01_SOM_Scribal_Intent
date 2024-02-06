@@ -1,6 +1,6 @@
 # Z01-SOM_Histocrypt_24
 
-## Table of Contents
+<h2 id="Table-of-Contents">Table of Contents</h2>
 - [Overview](#Overview)
 - [Python Calculation Jupyter Notebooks](#Python-Calculation-Jupyter-Notebooks)
 - [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities.md#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
