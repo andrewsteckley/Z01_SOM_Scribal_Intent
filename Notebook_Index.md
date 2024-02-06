@@ -5,25 +5,25 @@
 </div>
 
 # Python Calculation Jupyter Notebooks
-This supplemantal material includes a series of Jupyter Notebooks. These are:
+This supplemental material includes a series of Jupyter Notebooks. These are:
 
-* __Z01.1: Study Corpus for Study__
-  * This notebook works through the preparation of a clean study corpus by 
+<h3>Z01.1: Study Corpus for Study</h3>
+This notebook works through the preparation of a clean study corpus by 
  extraction of data from the transliterated the Voynich Manuscript.
 
 
-* __# Z01.2: Token Cohorts__
-  * This notebook sets up the several cohorts of tokens used for the study.
+<h3>Z01.2: Token Cohorts</h3>
+This notebook sets up the several cohorts of tokens used for the study.
   
-* __Z01.3: Token Length Analysis__
-  * This notebook shows the calculations for the analysis of token length distributions for the different cohorts.
+<h3>Z01.3: Token Length Analysis</h3>
+This notebook shows the calculations for the analysis of token length distributions for the different cohorts.
 
 
-* __Z01.4: Token Propensities Analysis__
-  * This notebook shows the calculations for the analysis of token usage propensities for each of the subject cohorts.
+<h3>Z01.4: Token Propensities Analysis</h3>
+This notebook shows the calculations for the analysis of token usage propensities for each of the subject cohorts.
 
   
-* __Z01.5: Extra Analyses__
+<h3>Z01.5: Extra Analyses</h3>
     
 
 

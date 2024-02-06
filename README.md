@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Python Calculation Jupyter Notebooks](Notebook_Index.md#Python-Calculation-Jupyter-Notebooks)
 - [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities.md#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
-- [Additional Figures](#Additional-Figures)
+- [Additional Figures](Additional_Figures.md#Additional-Figures)
   - [Starting the Application](#starting-the-application)
   - [Advanced Features](#advanced-features)
 - [License](#license)
