@@ -1,9 +1,7 @@
 
 ## Catalog of Tokens with Propensity for Various Positions
 
-<div style="text-align: right;">
-  <a href="README.md#Table-of-Contents">(Back to Table of Contents)</a>
-</div>
+[(Back to Table of Contents)](README.md#Table-of-Contents">(Back to Table of Contents))
 
 <h3 align="center">Table 1. Tokens with Propensity for Top Line of Paragraphs</h3>
 
@@ -25,3 +23,4 @@
 
 ![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
 
+[(Back to Table of Contents)](README.md#Table-of-Contents">(Back to Table of Contents))
