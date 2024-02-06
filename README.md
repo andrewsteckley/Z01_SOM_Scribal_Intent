@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [Python Calculation Jupyter Notebooks](#Python-Calculation-Jupyter-Notebooks)
-- [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
+- [Catalog of Tokens with Propensity for Various Positions](Catalog_of_Token_Propensities.md#Catalog-of-Tokens-with-Propensity-for-Various-Positions)
 - [Additional Figures](#Additional-Figures)
   - [Starting the Application](#starting-the-application)
   - [Advanced Features](#advanced-features)
