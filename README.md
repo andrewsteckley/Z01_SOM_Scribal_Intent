@@ -31,19 +31,24 @@ This supplemantal material includes a series of Jupyter Notebooks. These are:
 
   
 * __Z01.5: Extra Analyses__
-
+    
 
 # Additional Plots
 
-![Token Propenities for Top Lines of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
+### Table 1. Tokens with Propensity for Top Line of Paragraphs
+![Tokens with Propensity for Top Line of Paragraphs](voynich_data/outputs/T_token_propensities_TOP.png)
 
-![Token Propenities for Tokens in Line Start Positions](voynich_data/outputs/T_token_propensities_FIRST.png)
+### Table 2. Tokens with Propensity for First Position on a Line
+![Tokens with Propensity for First Position on a Line](voynich_data/outputs/T_token_propensities_FIRST.png)
 
-![Token Propenities for Tokens Immediately Before a Drawing](voynich_data/outputs/T_token_propensities_BEFORE.png)
+### Table 3. Tokens with Propensity for Position Immediately Before a Drawing
+![Tokens with Propensity for Position Immediately Before a Drawing](voynich_data/outputs/T_token_propensities_BEFORE.png)
 
-![Token Propenities for Tokens Immediately After a Drawing](voynich_data/outputs/T_token_propensities_AFTER.png)
+### Table 4. Tokens with Propensity for Position Immediately After a Drawing
+![Tokens with Propensity for Position Immediately After a Drawing](voynich_data/outputs/T_token_propensities_AFTER.png)
 
-![Token Propenities for Tokens Line Ending Positions](voynich_data/outputs/T_token_propensities_LAST.png)
+### Table 5. Tokens with Propensity Last Position on a Line
+![Tokens with Propensity Last Position on a Line](voynich_data/outputs/T_token_propensities_LAST.png)
 
 
 
