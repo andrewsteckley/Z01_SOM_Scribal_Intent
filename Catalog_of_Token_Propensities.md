@@ -1,7 +1,7 @@
 
 ## Catalog of Tokens with Propensity for Various Positions
 
-[(Back to Table of Contents)](README.md#Table-of-Contents">(Back to Table of Contents))
+![(Back to Table of Contents)](README.md#Table-of-Contents">(Back to Table of Contents))
 
 <h3 align="center">Table 1. Tokens with Propensity for Top Line of Paragraphs</h3>
 
